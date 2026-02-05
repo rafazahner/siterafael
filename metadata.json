@@ -1,0 +1,8 @@
+{
+  "name": "Rafael Ferreira Zahner - Corporate Hub",
+  "description": "A high-performance, AI-enhanced corporate landing page for Rafael Ferreira Zahner, featuring professional services, dynamic content generation, and sleek visual design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
